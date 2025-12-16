@@ -1,0 +1,5 @@
+{
+  "name": "E-commerce Admin Panel v01",
+  "description": "A robust admin panel for managing e-commerce operations, including orders, customers, products, and a unified inbox with AI-powered draft replies via Gemini.",
+  "requestFramePermissions": []
+}
